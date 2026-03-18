@@ -32,24 +32,41 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend & DevOps
+####🚀 **Backend: Java | Spring Boot | Microservices | REST API** 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
 </p>
 
-#### 🔧 Tools & Testing
+#### ☁️ Cloud: AWS (Lambda, API Gateway, DynamoDB, S3)  
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 </p>
+
+#### ⚙️ DevOps: Docker | Kubernetes | Jenkins | CI/CD  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-0A66C2?style=flat-square&logo=github&logoColor=white"/>
+<p>
+
+#### 🧠 AI/ML: Machine Learning | Data Analytics 
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+<p>
 
 ---
 
