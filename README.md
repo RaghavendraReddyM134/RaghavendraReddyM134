@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Raghavendra Reddy M</h1>
-<h3 align="center">MERN Stack Developer | DevOps Enthusiast | Automation Tester (Cucumber) | Open Source Contributor</h3>
+<h3 align="center">JAVA BACKEND Developer | DevOps Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
