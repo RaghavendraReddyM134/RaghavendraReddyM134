@@ -9,8 +9,8 @@
 
 ### 💼 About Me
 
-- 👨‍💻 Currently undergoing training at **IBM**  
-- 🧪 Learning **Automation Testing** with **Cucumber Framework**
+- 👨‍💻 Currently Working as an Application Developer at **IBM**  
+- 🧪 As a Java Backend Developer experienced in Springboot-Microservices
 - 🌐 Passionate about **open-source collaboration and contribution**
 - 🚀 Previously built:
   - 🌍 **Wanderlust** (Node.js + Bootstrap Travel App)
